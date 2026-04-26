@@ -1,0 +1,30 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.iml
+
+# Firebase — IMPORTANT (API keys)
+google-services.json
+GoogleService-Info.plist
+lib/firebase_options.dart
+
+# Android
+android/local.properties
+android/.gradle/
+android/key.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
+# IDE
+.idea/
+.vscode/
+*.log
+
+# Environment
+.env
+*.env
