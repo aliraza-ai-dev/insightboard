@@ -46,7 +46,7 @@ class ProgressPhotosService {
   final FirebaseStorage _storage = FirebaseStorage.instance;
   final FirebaseFirestore _db = FirebaseFirestore.instance;
 
-  static const String _claudeApiKey = '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';
+  static const String _claudeApiKey = 'API KEY';
 
   /// Upload photo to Firebase Storage
   Future<String?> uploadPhoto(String userId, File photo) async {
