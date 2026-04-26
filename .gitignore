@@ -28,3 +28,9 @@ ios/.symlinks/
 # Environment
 .env
 *.env
+
+google-services.json
+GoogleService-Info.plist
+lib/firebase_options.dart
+*.jks
+key.properties
