@@ -1,5 +1,13 @@
 # InsightBoard — AI-Powered Business Dashboard App
 
+# 📊 InsightBoard — AI-Powered Business Dashboard App
+
+![Flutter](https://img.shields.io/badge/Flutter-3.41-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Enabled-orange?logo=firebase)
+![AI](https://img.shields.io/badge/Claude%20AI-Powered-purple)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ## Overview
 InsightBoard is a complete Flutter + Firebase business intelligence app with AI-powered data analysis, interactive charts, team collaboration, and automated reporting.
 
@@ -255,3 +263,12 @@ Edit `lib/services/data_service.dart`:
 - PDF reports support up to 50 rows per table (configurable)
 - Firebase Storage used for dataset file backups
 - Data rows stored in Firestore chunks of 200 rows
+
+
+## 👨‍💻 Developer
+Built by **Ali Raza** — Flutter Developer
+- GitHub: [@aliraza-ai-dev](https://github.com/aliraza-ai-dev)
+- Available for freelance Flutter projects
+
+## ⭐ Support
+If you find this useful, please give it a star!
